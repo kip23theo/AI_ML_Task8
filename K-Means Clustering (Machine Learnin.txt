@@ -1,0 +1,36 @@
+ K-Means Clustering (Machine Learning Project)
+
+Objective:
+Perform end-to-end K-Means clustering on a dataset to identify meaningful data groupings using Python and Scikit-learn.
+
+🔹 Steps Performed
+
+Loaded dataset (via URL or file upload)
+
+Preprocessed and scaled numeric features
+
+Applied PCA for 2D visualization
+
+Used Elbow and Silhouette methods to find optimal K
+
+Trained final KMeans model
+
+Visualized clusters and centroids
+
+Exported results as clustered_results.csv
+
+🔹 Tools & Libraries
+
+Python (Google Colab)
+
+NumPy, Pandas, Matplotlib
+
+Scikit-learn (KMeans, PCA, StandardScaler)
+
+🔹 Output
+
+Cluster visualizations (PCA 2D plot)
+
+Cluster summary and centroids
+
+Saved CSV with cluster labels
